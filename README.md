@@ -1,2 +1,1 @@
-https://Smajlichak.github.io/rsschool-cv/cv.md
-
+https://github.com/Smajlichak/rsschool-cv/blob/gh-pages/cv.md#cv
